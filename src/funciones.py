@@ -45,3 +45,8 @@ def assingscore(x):
     if re.search (r"(.*)?aule(.*)?", x) != None:
         x= nivel2
     return x
+
+
+def casteascore(x):
+    x = int(x)
+    return x
