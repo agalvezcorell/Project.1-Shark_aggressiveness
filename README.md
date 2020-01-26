@@ -6,7 +6,7 @@
 
 En este proyecto analizo el data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1) descargado de Kaggle.
 
-###Mi objetivo es demostrar la siguiente hipótesis
+### Mi objetivo es demostrar la siguiente hipótesis
 
 "Los tiburones sudafricanos, influenciados por los discursos de paz de Nelson Mandela, son más tolerantes con los humanos que los tiburones australianos, cuna de la cultura del Surf"
 
