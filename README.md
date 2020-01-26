@@ -1,4 +1,4 @@
-https://d2wl5ewipdp1qd.cloudfront.net/elpaisviajes/safari-sudafrica/sudafrica-safari-tiburones-1-lg.jpg
+(https://d2wl5ewipdp1qd.cloudfront.net/elpaisviajes/safari-sudafrica/sudafrica-safari-tiburones-1-lg.jpg)
 
 # Análisis de agresividad de los tiburones con DataFrames
 
