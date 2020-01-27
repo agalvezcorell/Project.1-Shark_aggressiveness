@@ -1,6 +1,6 @@
 import re
 def limpiadate(x):
-    match = re.search("\d{4}",x)
+    match = re.search(r"\d{4}",x)    
     if match:
         x = int(match.group()) -1
     else:
@@ -8,7 +8,7 @@ def limpiadate(x):
     return x
 
 
-def assignscore3(x):
+def asigna3(x):
     if x == "Y":
         x = 3
     else:
@@ -16,7 +16,7 @@ def assignscore3(x):
     return x
 
 
-def assingscore(x):
+def asignapuntos(x):
     nivel2 = "2"
     nivel1 = "1"
     nivel3 = "3"
@@ -48,5 +48,4 @@ def assingscore(x):
 
 
 def casteascore(x):
-    x = int(x)
-    return x
+    return int(x)
