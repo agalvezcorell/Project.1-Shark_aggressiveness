@@ -1,4 +1,4 @@
-![Foto_de_tiburones_sudafrica](https://raw.githubusercontent.com/agalvezcorell/pandas-shark-project/master/input/sudafrica-safari-tiburones-1-lg.jpg)
+![Foto_de_tiburones_sudafrica](https://raw.githubusercontent.com/agalvezcorell/pandas-shark-project/master/input/portada.jpg)
 
 # Análisis de agresividad de los tiburones con DataFrames
 
